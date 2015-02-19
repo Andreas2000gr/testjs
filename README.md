@@ -1,2 +1,2 @@
 # testjs
-Some tests
+Some tests in js
